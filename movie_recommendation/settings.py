@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-4yj+4=dg0p-7ivk0=-o+yqcu*9y%6u$4%zoai!38iw((b+fdy3'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['movieapi-600w.onrender.com']
 
